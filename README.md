@@ -1,1 +1,2 @@
 # COVID-19_ANALYSIS
+The aim of the COVID-19 analysis (EDA) project is to explore and understand the trends, patterns, and impact of the pandemic using data. The goal is to identify key insights such as infection rates, recovery rates, mortality rates, and demographic distribution through data visualization and statistical techniques. This analysis can help inform public health decisions and improve future preparedness for similar outbreaks.
